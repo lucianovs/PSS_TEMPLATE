@@ -1,0 +1,27 @@
+C:\Users\Luciano\AppData\Local\Temporary Projects\Template\bin\Debug\Template.exe.config
+C:\Fontes\SSVP_Template\Template\bin\Debug\Template.exe.config
+C:\Fontes\SSVP_Template\Template\bin\Debug\Template.exe
+C:\Fontes\SSVP_Template\Template\bin\Debug\Template.pdb
+C:\Fontes\SSVP_Template\Template\bin\Debug\Template.xml
+C:\Fontes\SSVP_Template\Template\obj\Debug\Template.Resources.resources
+C:\Fontes\SSVP_Template\Template\obj\Debug\Template.vbproj.GenerateResource.Cache
+C:\Fontes\SSVP_Template\Template\obj\Debug\Template.exe
+C:\Fontes\SSVP_Template\Template\obj\Debug\Template.xml
+C:\Fontes\SSVP_Template\Template\obj\Debug\Template.pdb
+C:\Fontes\SSVP_Template\Template\obj\Debug\Template.mdiPrincipal.resources
+C:\Fontes\SSVP_Template\Template\obj\Debug\Template.Parametros.resources
+C:\Fontes\SSVP_Template\Template\obj\Debug\Template.frmBrowse.resources
+C:\Fontes\SSVP_Template\Template\obj\Debug\Template.frmUsuario.resources
+C:\Fontes\SSVP_Projeto\Template\bin\Debug\Template.exe.config
+C:\Fontes\SSVP_Projeto\Template\obj\Debug\Template.exe
+C:\Fontes\SSVP_Projeto\Template\obj\Debug\Template.xml
+C:\Fontes\SSVP_Projeto\Template\obj\Debug\Template.pdb
+C:\Fontes\SSVP_Projeto\Template\bin\Debug\Template.exe
+C:\Fontes\SSVP_Projeto\Template\bin\Debug\Template.pdb
+C:\Fontes\SSVP_Projeto\Template\bin\Debug\Template.xml
+C:\Fontes\SSVP_Projeto\Template\obj\Debug\Template.frmBrowse.resources
+C:\Fontes\SSVP_Projeto\Template\obj\Debug\Template.frmUsuario.resources
+C:\Fontes\SSVP_Projeto\Template\obj\Debug\Template.mdiPrincipal.resources
+C:\Fontes\SSVP_Projeto\Template\obj\Debug\Template.Resources.resources
+C:\Fontes\SSVP_Projeto\Template\obj\Debug\Template.Parametros.resources
+C:\Fontes\SSVP_Projeto\Template\obj\Debug\Template.vbproj.GenerateResource.Cache
