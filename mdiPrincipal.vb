@@ -27,10 +27,17 @@ Public Class mdiPrincipal
         'Conection String
         g_ConnectString = (LerDadosINI(nomeArquivoINI(), "CONEXAO", "ConnectString", _
             ClassCrypt.Encrypt("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=SSVP.accdb;Persist Security Info=False;")))
-
+        
         'Conectar com o Banco de dados
         If Not ConectarBanco() Then
-            Application.Exit()
+        	Dim formConfig As Form = Parametros
+        	
+        	formConfig.Tag = 4
+        	
+        	formConfig.Show
+        	
+        	'Application.Exit()
+        	Exit Sub 
         End If
 
         'Ler o Usuário e Validar o Acesso

@@ -605,7 +605,7 @@ Public Class frmUsuario
         Dim options = New dlgColaborador
 
         ' Did the user click Save?
-        If options.ShowDialog() = Windows.Forms.DialogResult.OK Then
+        If options.ShowDialog() = System.Windows.Forms.DialogResult.OK Then
             ' Yes, so grab the values you want from the dialog here
             'Dim textBoxValue As String = options.txtPesquisa.Text
             txtColaborador.Text = Microsoft.VisualBasic.Left(options.txtPesquisa.Text, 6) & " - " & LerNome_Colaborador(Microsoft.VisualBasic.Left(options.txtPesquisa.Text, 6))

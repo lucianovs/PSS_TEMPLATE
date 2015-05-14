@@ -12,3 +12,18 @@ C:\Fontes\SSVP_Template\Template\obj\Debug\Template.mdiPrincipal.resources
 C:\Fontes\SSVP_Template\Template\obj\Debug\Template.Parametros.resources
 C:\Fontes\SSVP_Template\Template\obj\Debug\Template.frmBrowse.resources
 C:\Fontes\SSVP_Template\Template\obj\Debug\Template.frmUsuario.resources
+\\192.168.16.90\Documents\Visual Studio 2010\Projects\PSS_TEMPLATE\obj\Debug\Template.vbprojResolveAssemblyReference.cache
+\\192.168.16.90\Documents\Visual Studio 2010\Projects\PSS_TEMPLATE\obj\Debug\Template.dlgColaborador.resources
+\\192.168.16.90\Documents\Visual Studio 2010\Projects\PSS_TEMPLATE\obj\Debug\Template.frmBrowse.resources
+\\192.168.16.90\Documents\Visual Studio 2010\Projects\PSS_TEMPLATE\obj\Debug\Template.frmUsuario.resources
+\\192.168.16.90\Documents\Visual Studio 2010\Projects\PSS_TEMPLATE\obj\Debug\Template.mdiPrincipal.resources
+\\192.168.16.90\Documents\Visual Studio 2010\Projects\PSS_TEMPLATE\obj\Debug\Template.Resources.resources
+\\192.168.16.90\Documents\Visual Studio 2010\Projects\PSS_TEMPLATE\obj\Debug\Template.Parametros.resources
+\\192.168.16.90\Documents\Visual Studio 2010\Projects\PSS_TEMPLATE\obj\Debug\Template.vbproj.GenerateResource.Cache
+\\192.168.16.90\Documents\Visual Studio 2010\Projects\PSS_TEMPLATE\obj\Debug\Template.exe
+\\192.168.16.90\Documents\Visual Studio 2010\Projects\PSS_TEMPLATE\obj\Debug\Template.xml
+\\192.168.16.90\Documents\Visual Studio 2010\Projects\PSS_TEMPLATE\obj\Debug\Template.pdb
+\\192.168.16.90\Documents\Visual Studio 2010\Projects\PSS_TEMPLATE\bin\Debug\Template.exe.config
+\\192.168.16.90\Documents\Visual Studio 2010\Projects\PSS_TEMPLATE\bin\Debug\Template.exe
+\\192.168.16.90\Documents\Visual Studio 2010\Projects\PSS_TEMPLATE\bin\Debug\Template.pdb
+\\192.168.16.90\Documents\Visual Studio 2010\Projects\PSS_TEMPLATE\bin\Debug\Template.xml

@@ -1,5 +1,6 @@
 ﻿Imports System.Data.OleDb
 Imports System.Drawing.Printing
+Imports System
 
 Public Class frmBrowse
     Dim Formulario As String
@@ -39,7 +40,7 @@ Public Class frmBrowse
         Dim cmdInsert As OleDbCommand
 
         Dim dtSI902 As DataTable = New DataTable("ESI902")
-        Windows.Forms.Cursor.Current = System.Windows.Forms.Cursors.WaitCursor
+        System.Windows.Forms.Cursor.Current = System.Windows.Forms.Cursors.WaitCursor
 
         nCod_Login = getCodUsuario(ClassCrypt.Decrypt(g_Login)) 'CARREGAR O USUÁRIO LOGADO
         If nCod_Login = 1 Then
@@ -137,7 +138,7 @@ Public Class frmBrowse
             End Try
         End If
 
-        Windows.Forms.Cursor.Current = System.Windows.Forms.Cursors.Default
+        System.Windows.Forms.Cursor.Current = System.Windows.Forms.Cursors.Default
 
         ListView_Browse.Size = New Size(Me.Size.Width - 34, Me.Size.Height - 146) '112
 
