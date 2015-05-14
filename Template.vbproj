@@ -72,16 +72,22 @@
   <ItemGroup>
     <Compile Include="ClassCrypt.vb" />
     <Compile Include="classLoadListView.vb" />
-    <Compile Include="frmBrowse.Designer.vb">
-      <DependentUpon>frmBrowse.vb</DependentUpon>
+    <Compile Include="dlgColaborador.Designer.vb">
+      <DependentUpon>dlgColaborador.vb</DependentUpon>
     </Compile>
-    <Compile Include="frmBrowse.vb">
+    <Compile Include="dlgColaborador.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmUsuario.Designer.vb">
+    <Compile Include="Form\frmBrowse.Designer.vb">
+      <DependentUpon>frmBrowse.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmBrowse.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmUsuario.Designer.vb">
       <DependentUpon>frmUsuario.vb</DependentUpon>
     </Compile>
-    <Compile Include="frmUsuario.vb">
+    <Compile Include="Form\frmUsuario.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="mdiPrincipal.Designer.vb">
@@ -106,18 +112,21 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="Parametros.Designer.vb">
+    <Compile Include="Form\Parametros.Designer.vb">
       <DependentUpon>Parametros.vb</DependentUpon>
     </Compile>
-    <Compile Include="Parametros.vb">
+    <Compile Include="Form\Parametros.vb">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="frmBrowse.resx">
+    <EmbeddedResource Include="dlgColaborador.resx">
+      <DependentUpon>dlgColaborador.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmBrowse.resx">
       <DependentUpon>frmBrowse.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmUsuario.resx">
+    <EmbeddedResource Include="Form\frmUsuario.resx">
       <DependentUpon>frmUsuario.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="mdiPrincipal.resx">
@@ -129,7 +138,7 @@
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="Parametros.resx">
+    <EmbeddedResource Include="Form\Parametros.resx">
       <DependentUpon>Parametros.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
