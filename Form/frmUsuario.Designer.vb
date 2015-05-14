@@ -60,6 +60,7 @@ Partial Class frmUsuario
         Me.lblColaborador = New System.Windows.Forms.Label()
         Me.txtColaborador = New System.Windows.Forms.TextBox()
         Me.btnLocColaborador = New System.Windows.Forms.Button()
+        Me.TextBox1 = New System.Windows.Forms.TextBox()
         Me.ToolStrip1.SuspendLayout()
         Me.StatusStrip1.SuspendLayout()
         Me.SuspendLayout()
@@ -388,11 +389,19 @@ Partial Class frmUsuario
         Me.btnLocColaborador.Text = "..."
         Me.btnLocColaborador.UseVisualStyleBackColor = True
         '
+        'TextBox1
+        '
+        Me.TextBox1.Location = New System.Drawing.Point(560, 280)
+        Me.TextBox1.Name = "TextBox1"
+        Me.TextBox1.Size = New System.Drawing.Size(100, 22)
+        Me.TextBox1.TabIndex = 19
+        '
         'frmUsuario
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(759, 346)
+        Me.Controls.Add(Me.TextBox1)
         Me.Controls.Add(Me.btnLocColaborador)
         Me.Controls.Add(Me.txtColaborador)
         Me.Controls.Add(Me.lblColaborador)
@@ -463,4 +472,5 @@ Partial Class frmUsuario
     Friend WithEvents lblColaborador As System.Windows.Forms.Label
     Friend WithEvents txtColaborador As System.Windows.Forms.TextBox
     Friend WithEvents btnLocColaborador As System.Windows.Forms.Button
+    Friend WithEvents TextBox1 As System.Windows.Forms.TextBox
 End Class
